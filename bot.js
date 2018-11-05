@@ -13,7 +13,7 @@ client.on("message", message => {
       .setColor("#000000") 
       .setDescription(`
       
-                    Legends United-Bot Commands
+                    Loosh -Bot Commands
 Please Choose:
 
              
